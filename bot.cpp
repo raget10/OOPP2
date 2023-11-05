@@ -24,4 +24,5 @@ void Bot::ChooseRandomWeapon() {
     }
 
     GetInventory()->SetWeapon(weapon);
+    //Sebelumnya ini cuman tambahan aja 
 }
