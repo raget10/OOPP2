@@ -1,0 +1,58 @@
+﻿  game_manager.cpp
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(10,20): error C2061: syntax error: identifier 'Weapon'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,11): error C2143: syntax error: missing ';' before '*'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,19): error C2238: unexpected token(s) preceding ';'
+  inventory.cpp
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(10,20): error C2061: syntax error: identifier 'Weapon'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,11): error C2143: syntax error: missing ';' before '*'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,19): error C2238: unexpected token(s) preceding ';'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.cpp(4,10): fatal error C1083: Cannot open include file: 'weapon': No such file or directory
+  main.cpp
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(10,20): error C2061: syntax error: identifier 'Weapon'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,11): error C2143: syntax error: missing ';' before '*'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,19): error C2238: unexpected token(s) preceding ';'
+  paper.cpp
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\paper.h(6,13): error C2011: 'Paper': 'class' type redefinition
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\weapon.h(17): message : see declaration of 'Paper'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\paper.cpp(4,13): error C2027: use of undefined type 'Paper'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\weapon.h(17): message : see declaration of 'Paper'
+  player.cpp
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(10,20): error C2061: syntax error: identifier 'Weapon'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,11): error C2143: syntax error: missing ';' before '*'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,19): error C2238: unexpected token(s) preceding ';'
+  bot.cpp
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(10,20): error C2061: syntax error: identifier 'Weapon'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,11): error C2143: syntax error: missing ';' before '*'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,19): error C2238: unexpected token(s) preceding ';'
+  protection.cpp
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\protection.h(6,18): error C2011: 'Protection': 'class' type redefinition
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\weapon.h(27): message : see declaration of 'Protection'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\protection.cpp(4,18): error C2027: use of undefined type 'Protection'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\weapon.h(27): message : see declaration of 'Protection'
+  rock.cpp
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\rock.h(6,12): error C2011: 'Rock': 'class' type redefinition
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\weapon.h(12): message : see declaration of 'Rock'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\rock.cpp(4,12): error C2027: use of undefined type 'Rock'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\weapon.h(12): message : see declaration of 'Rock'
+  scissor.cpp
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\scissor.h(6,15): error C2011: 'Scissor': 'class' type redefinition
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\weapon.h(22): message : see declaration of 'Scissor'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\scissor.cpp(4,15): error C2027: use of undefined type 'Scissor'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\weapon.h(22): message : see declaration of 'Scissor'
+  user.cpp
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(10,20): error C2061: syntax error: identifier 'Weapon'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,11): error C2143: syntax error: missing ';' before '*'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(17,19): error C2238: unexpected token(s) preceding ';'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\user.cpp(7,5): error C2248: 'Player::inventory': cannot access private member declared in class 'Player'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\player.h(25): message : see declaration of 'Player::inventory'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\player.h(8): message : see declaration of 'Player'
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\user.cpp(7,32): error C2660: 'Inventory::SetWeapon': function does not take 1 arguments
+C:\Dokumen & Tugas Kampus Pens\opp\OPP 2 batu gunting kertas\inventory.h(10,10): message : see declaration of 'Inventory::SetWeapon'
+  weapon.cpp
+  Generating Code...
